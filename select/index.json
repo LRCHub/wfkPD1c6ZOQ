@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "family name",
+  "base_artist": "ZOC",
+  "createdAt": "2026-02-06T06:40:56.820758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/01_Family_Name_Prince.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "Trophy Eyes",
+      "has_synced": true,
+      "path": "select/02_Family_Name_Trophy_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FAMILY NAME",
+      "artist": "Cam Steady feat. Connor Quest! & VideoGameRapBattles",
+      "has_synced": true,
+      "path": "select/03_FAMILY_NAME_Cam_Steady_feat._Connor_Quest!_&_VideoGameRapBattles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "Peter Bradley Adams",
+      "has_synced": true,
+      "path": "select/04_Family_Name_Peter_Bradley_Adams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FAMILY NAME",
+      "artist": "Cam Steady",
+      "has_synced": true,
+      "path": "select/05_FAMILY_NAME_Cam_Steady.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Family Name (Live from One Nite Alone Tour 2002)",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": true,
+      "path": "select/06_Family_Name_(Live_from_One_Nite_Alone_Tour_2002)_Prince_&_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Family Name (Live from One Nite Alone Tour 2002)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/07_Family_Name_(Live_from_One_Nite_Alone_Tour_2002)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To Protect the Family Name",
+      "artist": "Pedro The Lion",
+      "has_synced": false,
+      "path": "select/08_To_Protect_the_Family_Name_Pedro_The_Lion.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bolt Cutters & The Family Name",
+      "artist": "Larkin Poe",
+      "has_synced": true,
+      "path": "select/09_Bolt_Cutters_&_The_Family_Name_Larkin_Poe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FAMILY NAME",
+      "artist": "Cam Steady ft. CONNOR QUEST!",
+      "has_synced": true,
+      "path": "select/10_FAMILY_NAME_Cam_Steady_ft._CONNOR_QUEST!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": true,
+      "path": "select/11_Family_Name_Prince_&_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "Prince & New Power Generation, The",
+      "has_synced": true,
+      "path": "select/12_Family_Name_Prince_&_New_Power_Generation,_The.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "New Power Generation/Prince",
+      "has_synced": true,
+      "path": "select/13_Family_Name_New_Power_Generation_Prince.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "Prince & The NPG",
+      "has_synced": false,
+      "path": "select/14_Family_Name_Prince_&_The_NPG.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Family Name",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": true,
+      "path": "select/15_Family_Name_Prince_&_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "family name",
+      "artist": "ZOC",
+      "has_synced": false,
+      "path": "select/pl_01_family_name_ZOC.txt"
+    }
+  ]
+}
